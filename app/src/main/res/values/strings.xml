@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mapSearch</string>
+    <string name="key_map">AIzaSyCXi8GwmkkEeCeDE9G2EnpbnEPsbUMkSmI</string>
+    <string name="txt_select_place_hint" />
+</resources>
